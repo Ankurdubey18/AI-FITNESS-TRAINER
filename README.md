@@ -1,6 +1,7 @@
 <h1 align="center">💪 AI Fitness Assistant 🤖</h1>
 
-![Demo App](/public/screenshot-for-readme.png)
+![screenshot-for-readme](https://github.com/user-attachments/assets/8736fcee-1b64-4f17-968e-62b5fd284104)
+
 
 ## Highlights:
 
